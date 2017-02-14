@@ -327,3 +327,13 @@ color: #fff;
 .top_picture p {
     margin:0;
 }
+
+/*Копирайты*/
+.footerLeftText {
+  text-align: right;
+  margin-right: 10px;
+}
+.footerRightText {
+  text-align: right;
+  margin-right: 10px;
+}
