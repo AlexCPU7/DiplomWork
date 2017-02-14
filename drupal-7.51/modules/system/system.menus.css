@@ -45,7 +45,7 @@ td.menu-disabled {
  */
 ul.inline,
 ul.links.inline {
-  display: inline;
+  display: none;
   padding-left: 0;
 }
 ul.inline li {
