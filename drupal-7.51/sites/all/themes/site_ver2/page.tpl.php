@@ -88,6 +88,8 @@ regions[banners] = Баннеры
 <?php if ($page['footer']): ?>
     <div class="footer">
         <?php print render($page['footer']); ?>
+        <div id = "footerLeftText">Разработано при поддержке студентов ИГХТУ профиля подготовки "Бизнес-информатика"</div>
+        <div id = "footerRightText">2017</div>
     </div>
 <?php endif; ?>
 
